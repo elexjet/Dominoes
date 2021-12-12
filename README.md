@@ -1,2 +1,2 @@
 # Dominoes
-Dominoes Game Project from JetBrains Academy Python Core Track.
+Dominoes game project from JetBrains Academy Python Core Track.
